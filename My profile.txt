@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Recruitment Profile</title>
+    
+    <img src="Profile.jpg" alt="Profile Photo" width="150" height="150">
+
+    <h2>About Me</h2>
+    <p>
+      I am a hardworking and passionate individual seeking opportunities in architecture and project management roles.I am passionate about sketching  and turning imagination into visual diagrams.I thrive in enviroments where creativity is an adept skill. I am passionate about learning about new tools, collaborating with team members to create amazing designs. My goal is to grow in an organization that values hardwork and rewards effort.
+    </p>
+
+    <h2>Skills and Experience</h2>
+    <p>
+        I have experience working on architectural design projects, developing sketches, and creating 2D and 3D models using tools such as AutoCAD and SketchUp. 
+    My skills include project planning, teamwork, and problem-solving, as well as a strong eye for detail and aesthetics. 
+    I am also familiar with managing design timelines and coordinating with clients to ensure creative and functional outcomes.
+    </p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>2024: Project Managent – ICS Training Institute</li>
+        <li>2022: Bachelor of Arts Education(English Literature) – Moonlight College</li>
+        <li>2019: High School– Brookhouse Academy</li>
+    </ul>
+
+    <h2>Hobbies and Interests</h2>
+    <ul>
+        <li>volunteering</li>
+        <li>Reading and writing</li>
+        <li>Swimming</li>
+        <li>Hiking and running</li>
+    </ul>
+</body>
+</html>
+
+
+
